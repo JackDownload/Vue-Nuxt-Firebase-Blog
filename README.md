@@ -1,6 +1,3 @@
-# nuxt-course
-
-> Nuxt.js course for Udemy
 
 ## Build Setup
 
@@ -19,4 +16,4 @@ $ yarn start
 $ yarn run generate
 ```
 
-For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
+
