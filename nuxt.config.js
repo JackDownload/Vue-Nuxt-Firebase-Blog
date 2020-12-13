@@ -50,7 +50,7 @@ module.exports = {
     '@nuxtjs/axios',
   ],
   axios: {
-    baseURL: process.env.BASE_URL || 'https://nuxt-blog.firebaseio.com',
+    baseURL: process.env.BASE_URL || 'https://daim-f3820.firebaseapp.com',
     credentials: false
   },
 
@@ -66,8 +66,8 @@ module.exports = {
     }
   },
   env: {
-    baseUrl: process.env.BASE_URL || 'https://nuxt-blog.firebaseio.com',
-    fbAPIKey: 'AIzaSyB4uttLQU61vyIppX2Tqgh447CNFuW7Vjo'
+    baseUrl: process.env.BASE_URL || 'https://daim-f3820.firebaseapp.com/',
+    fbAPIKey: 'AIzaSyDr_hBP01ykjPbn4PUvR2-eURf_ftSm_UY'
   },
   transition: {
     name: 'fade',
